@@ -1,4 +1,4 @@
-!doctype html>
+index.html.
 
 <html lang="cs">
   <head>
@@ -240,4 +240,5 @@
 </footer>
 
   </body>
+
 </html>
