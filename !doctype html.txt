@@ -1,4 +1,4 @@
-index.html.
+index.html
 
 <html lang="cs">
   <head>
@@ -242,3 +242,4 @@ index.html.
   </body>
 
 </html>
+
